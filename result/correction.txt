@@ -1,0 +1,8 @@
+USER:NBARUMORS
+CREATE AT:Fri Nov 14 17:45:51 +0000 2014
+TWEET:RT @JasonLloydABJ: Kevin Love denies any interest in joining Lakers next season: http://t.co/k3I8HlZ1bP
+==========================
+USER:NBARUMORS
+CREATE AT:Fri Nov 14 17:45:51 +0000 2014
+TWEET:RT @JasonLloydABJ: Kevin Love denies any interest in joining Lakers next season: http://t.co/k3I8HlZ1bP
+==========================
